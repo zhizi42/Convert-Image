@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">黑白頭像轉換</string>
+    <string name="text_button">獲取並轉換</string>
+    <string name="image_black">黑白頭像</string>
+    <string name="error_url">獲取網址失敗</string>
+    <string name="request_permission_succ">成功授予寫入權限，請重新點擊圖片來保存</string>
+    <string name="request_permission_failed">授予寫入權限失敗，請授權以保存圖片</string>
+    <string name="text_save_succ">圖片保存成功！</string>
+    <string name="text_tip">提示：點擊圖片來保存圖片</string>
+    <string name="text_easter_egg_text">我是一個小彩蛋ヾ(≧▽≦*)o\ncode by AI丿質子(AI丿质子)。\n本應用的可以快速製作黑白頭像，需求始 於為了悼念江澤民前主席。\n本應用支持簡體中文，繁體中文（香港），繁體中文（台灣），英語；除簡體中文外均使用機器翻譯。</string>
+    <string name="text_easter_egg_title">彩蛋~</string>
+    <string name="text_dialog_button_ok">確定~</string>
+    <string name="qq_number_hint">QQ號</string>
+</resources>

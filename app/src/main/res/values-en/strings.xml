@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Convert Image</string>
+    <string name="text_button">get and convert</string>
+    <string name="image_black">Black and White Image</string>
+    <string name="error_url">Get website failed</string>
+    <string name="request_permission_succ">Successfully granted write permission. Please click the image again to save</string>
+    <string name="request_permission_failed">Failed to grant write permission. Please authorize to save the picture</string>
+    <string name="text_save_succ">Save image success!</string>
+    <string name="text_tip">Tip: Click the picture to save it</string>
+    <string name="text_easter_egg_text">I am a small egg ヾ (≥ ▽≤ *) o \ncode by zhizi42(AI丿质子).\nThis application can quickly produce black and white head portrait, and the demand starts from mourning the former President Jiang Zemin.\nThis application supports simplified Chinese, traditional Chinese (Hong Kong), traditional Chinese (Taiwan), and English; Machine translation is used except for simplified Chinese.</string>
+    <string name="text_easter_egg_title">EasterEgg~</string>
+    <string name="text_dialog_button_ok">OK~</string>
+    <string name="qq_number_hint">QQ Number</string>
+</resources>
